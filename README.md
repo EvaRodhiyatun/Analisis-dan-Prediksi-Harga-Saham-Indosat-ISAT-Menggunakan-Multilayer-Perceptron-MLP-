@@ -1,0 +1,1 @@
+# Analisis-dan-Prediksi-Harga-Saham-Indosat-ISAT-Menggunakan-Multilayer-Perceptron-MLP-
